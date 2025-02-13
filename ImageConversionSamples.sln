@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageToPdf", "ImageToPdf\ImageToPdf.csproj", "{61C775BE-53D0-43E7-A30C-5E008B62D7F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageConversionsSample", "ImageConversionsSample\ImageConversionsSample.csproj", "{61C775BE-53D0-43E7-A30C-5E008B62D7F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
